@@ -1,10 +1,12 @@
 import React from "react";
+// components //
+import { Banner } from "./components";
 
 function App() {
   return (
-    <div className="App">
-      <h1>Hello world</h1>
-    </div>
+    <main>
+      <Banner />
+    </main>
   );
 }
 
