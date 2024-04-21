@@ -4,7 +4,7 @@ This React component utilizes the `@react-three/drei` and `@react-three/fiber` l
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/1Rfk5nx/img.png)
+![App Screenshot](https://i.postimg.cc/QtpKWbDm/img.png)
 
 ## Features
 
